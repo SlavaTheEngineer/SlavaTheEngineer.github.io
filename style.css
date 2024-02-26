@@ -53,7 +53,7 @@ header {
 	float: left;
 	width: 200px;
 	height: 60px;
-	background: url(img/logo.png) no-repeat center;
+	background: url(docs/assets/images/logo.png) no-repeat center;
 }
 /* Start Navigation */
 nav {
@@ -64,7 +64,7 @@ nav {
 	display: hidden;
 	width: 40px;
 	height: 40px;
-	background: url(img/nav.png) center;
+	background: url(docs/assets/images/nav.png) center;
 }
 a:hover#menu-icon {
 	border-radius: 4px 4px 0 0;
@@ -234,7 +234,7 @@ footer p {
 	}
 	#logo {
 		margin: 15px 0 20px -25px;
-		background: url(img/logo_mobile.png) no-repeat center;
+		background: url(docs/assets/images/logo_mobile.png) no-repeat center;
 	}
 	#menu-icon {
 		display: inline-block;
